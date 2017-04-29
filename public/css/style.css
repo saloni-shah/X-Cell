@@ -4,5 +4,9 @@ table{
 th,td{
 	border: 1px solid black;
 	min-width: 100px;
+	height: 25px;
 	padding: 3px;
+}
+.current-cell{
+	background-color: pink;
 }
